@@ -1,0 +1,11 @@
+D:\Aplicaciones\Actual_SisClinica\Curso-ASP.NET-2016-master\ProyectoWeb\CapaPresentacion\CapaLogicaNegocio\bin\Release\CapaLogicaNegocio.dll
+D:\Aplicaciones\Actual_SisClinica\Curso-ASP.NET-2016-master\ProyectoWeb\CapaPresentacion\CapaLogicaNegocio\bin\Release\CapaLogicaNegocio.pdb
+D:\Aplicaciones\Actual_SisClinica\Curso-ASP.NET-2016-master\ProyectoWeb\CapaPresentacion\CapaLogicaNegocio\bin\Release\CapaAccesoDatos.dll
+D:\Aplicaciones\Actual_SisClinica\Curso-ASP.NET-2016-master\ProyectoWeb\CapaPresentacion\CapaLogicaNegocio\bin\Release\CapaEntidades.dll
+D:\Aplicaciones\Actual_SisClinica\Curso-ASP.NET-2016-master\ProyectoWeb\CapaPresentacion\CapaLogicaNegocio\bin\Release\CapaAccesoDatos.pdb
+D:\Aplicaciones\Actual_SisClinica\Curso-ASP.NET-2016-master\ProyectoWeb\CapaPresentacion\CapaLogicaNegocio\bin\Release\CapaEntidades.pdb
+D:\Aplicaciones\Actual_SisClinica\Curso-ASP.NET-2016-master\ProyectoWeb\CapaPresentacion\CapaLogicaNegocio\obj\Release\CapaLogicaNegocio.csprojAssemblyReference.cache
+D:\Aplicaciones\Actual_SisClinica\Curso-ASP.NET-2016-master\ProyectoWeb\CapaPresentacion\CapaLogicaNegocio\obj\Release\CapaLogicaNegocio.csproj.CoreCompileInputs.cache
+D:\Aplicaciones\Actual_SisClinica\Curso-ASP.NET-2016-master\ProyectoWeb\CapaPresentacion\CapaLogicaNegocio\obj\Release\CapaLogicaNegocio.csproj.CopyComplete
+D:\Aplicaciones\Actual_SisClinica\Curso-ASP.NET-2016-master\ProyectoWeb\CapaPresentacion\CapaLogicaNegocio\obj\Release\CapaLogicaNegocio.dll
+D:\Aplicaciones\Actual_SisClinica\Curso-ASP.NET-2016-master\ProyectoWeb\CapaPresentacion\CapaLogicaNegocio\obj\Release\CapaLogicaNegocio.pdb

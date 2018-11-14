@@ -1,0 +1,15 @@
+C:\Users\JorgePC\Desktop\CapaPresentacion\CapaEntidades\bin\Debug\CapaEntidades.dll
+C:\Users\JorgePC\Desktop\CapaPresentacion\CapaEntidades\bin\Debug\CapaEntidades.pdb
+C:\Users\JorgePC\Desktop\CapaPresentacion\CapaEntidades\obj\Debug\CapaEntidades.dll
+C:\Users\JorgePC\Desktop\CapaPresentacion\CapaEntidades\obj\Debug\CapaEntidades.pdb
+C:\Users\JorgePC\Desktop\CapaPresentacion\CapaEntidades\obj\Debug\CapaEntidades.csprojResolveAssemblyReference.cache
+C:\Users\JorgePC\Documents\GitHub\PROYECTO-CURSO-ASP-NET-2016\Curso-ASP.NET-2016\ProyectoWeb\CapaPresentacion\CapaEntidades\bin\Debug\CapaEntidades.dll
+C:\Users\JorgePC\Documents\GitHub\PROYECTO-CURSO-ASP-NET-2016\Curso-ASP.NET-2016\ProyectoWeb\CapaPresentacion\CapaEntidades\bin\Debug\CapaEntidades.pdb
+C:\Users\JorgePC\Documents\GitHub\PROYECTO-CURSO-ASP-NET-2016\Curso-ASP.NET-2016\ProyectoWeb\CapaPresentacion\CapaEntidades\obj\Debug\CapaEntidades.csprojResolveAssemblyReference.cache
+C:\Users\JorgePC\Documents\GitHub\PROYECTO-CURSO-ASP-NET-2016\Curso-ASP.NET-2016\ProyectoWeb\CapaPresentacion\CapaEntidades\obj\Debug\CapaEntidades.dll
+C:\Users\JorgePC\Documents\GitHub\PROYECTO-CURSO-ASP-NET-2016\Curso-ASP.NET-2016\ProyectoWeb\CapaPresentacion\CapaEntidades\obj\Debug\CapaEntidades.pdb
+D:\Aplicaciones\Actual_SisClinica\Curso-ASP.NET-2016-master\ProyectoWeb\CapaPresentacion\CapaEntidades\bin\Debug\CapaEntidades.dll
+D:\Aplicaciones\Actual_SisClinica\Curso-ASP.NET-2016-master\ProyectoWeb\CapaPresentacion\CapaEntidades\bin\Debug\CapaEntidades.pdb
+D:\Aplicaciones\Actual_SisClinica\Curso-ASP.NET-2016-master\ProyectoWeb\CapaPresentacion\CapaEntidades\obj\Debug\CapaEntidades.csproj.CoreCompileInputs.cache
+D:\Aplicaciones\Actual_SisClinica\Curso-ASP.NET-2016-master\ProyectoWeb\CapaPresentacion\CapaEntidades\obj\Debug\CapaEntidades.dll
+D:\Aplicaciones\Actual_SisClinica\Curso-ASP.NET-2016-master\ProyectoWeb\CapaPresentacion\CapaEntidades\obj\Debug\CapaEntidades.pdb

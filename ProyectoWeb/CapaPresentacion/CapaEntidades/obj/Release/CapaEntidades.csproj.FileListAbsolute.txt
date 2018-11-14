@@ -1,0 +1,5 @@
+D:\Aplicaciones\Actual_SisClinica\Curso-ASP.NET-2016-master\ProyectoWeb\CapaPresentacion\CapaEntidades\bin\Release\CapaEntidades.dll
+D:\Aplicaciones\Actual_SisClinica\Curso-ASP.NET-2016-master\ProyectoWeb\CapaPresentacion\CapaEntidades\bin\Release\CapaEntidades.pdb
+D:\Aplicaciones\Actual_SisClinica\Curso-ASP.NET-2016-master\ProyectoWeb\CapaPresentacion\CapaEntidades\obj\Release\CapaEntidades.csproj.CoreCompileInputs.cache
+D:\Aplicaciones\Actual_SisClinica\Curso-ASP.NET-2016-master\ProyectoWeb\CapaPresentacion\CapaEntidades\obj\Release\CapaEntidades.dll
+D:\Aplicaciones\Actual_SisClinica\Curso-ASP.NET-2016-master\ProyectoWeb\CapaPresentacion\CapaEntidades\obj\Release\CapaEntidades.pdb

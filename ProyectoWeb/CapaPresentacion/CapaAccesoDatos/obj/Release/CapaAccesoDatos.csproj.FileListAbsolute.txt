@@ -1,0 +1,9 @@
+D:\Aplicaciones\Actual_SisClinica\Curso-ASP.NET-2016-master\ProyectoWeb\CapaPresentacion\CapaAccesoDatos\bin\Release\CapaAccesoDatos.dll
+D:\Aplicaciones\Actual_SisClinica\Curso-ASP.NET-2016-master\ProyectoWeb\CapaPresentacion\CapaAccesoDatos\bin\Release\CapaAccesoDatos.pdb
+D:\Aplicaciones\Actual_SisClinica\Curso-ASP.NET-2016-master\ProyectoWeb\CapaPresentacion\CapaAccesoDatos\bin\Release\CapaEntidades.dll
+D:\Aplicaciones\Actual_SisClinica\Curso-ASP.NET-2016-master\ProyectoWeb\CapaPresentacion\CapaAccesoDatos\bin\Release\CapaEntidades.pdb
+D:\Aplicaciones\Actual_SisClinica\Curso-ASP.NET-2016-master\ProyectoWeb\CapaPresentacion\CapaAccesoDatos\obj\Release\CapaAccesoDatos.csprojAssemblyReference.cache
+D:\Aplicaciones\Actual_SisClinica\Curso-ASP.NET-2016-master\ProyectoWeb\CapaPresentacion\CapaAccesoDatos\obj\Release\CapaAccesoDatos.csproj.CoreCompileInputs.cache
+D:\Aplicaciones\Actual_SisClinica\Curso-ASP.NET-2016-master\ProyectoWeb\CapaPresentacion\CapaAccesoDatos\obj\Release\CapaAccesoDatos.csproj.CopyComplete
+D:\Aplicaciones\Actual_SisClinica\Curso-ASP.NET-2016-master\ProyectoWeb\CapaPresentacion\CapaAccesoDatos\obj\Release\CapaAccesoDatos.dll
+D:\Aplicaciones\Actual_SisClinica\Curso-ASP.NET-2016-master\ProyectoWeb\CapaPresentacion\CapaAccesoDatos\obj\Release\CapaAccesoDatos.pdb
